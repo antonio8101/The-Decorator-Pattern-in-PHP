@@ -6,7 +6,7 @@ The Decorator Pattern was original presented by Erich Gamma, Richard Helm, Ralph
 
 This book is also known with the title `Gang of Four` *GoF* because of the authors number. 
 
-The book presents many *Design Pattern* which are very useful to developement challeges, by using solution which make the code more flexible and easy to mantain.
+The book presents many `Design Patterns` which are very useful to developement challeges, by using solution which make the code more flexible and easy to mantain.
 
 ### What problem solves this pattern
 The Decorator pattern solves the problem of dynamically and flexibly extending object functionalities without modifying their source code. It is beneficial when dealing with a set of base classes, each with basic functionality, and the goal is to add or modify behavior independently and in a combinable way.
