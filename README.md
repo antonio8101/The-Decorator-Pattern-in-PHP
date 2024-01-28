@@ -36,10 +36,11 @@ The Decorator pattern solves the problem of dynamically and flexibly extending o
 2. **Concrete Component:** Implement the Component interface with a concrete class providing the core functionality.
 
 3. **Decorator Interface:** Create a decorator interface mirroring the Component interface, serving as a blueprint for concrete decorators.
+4. *The Decorator Interface could be even an abstract class in PHP, in this way it is possible to add not only methods, but also properties to the interface*.
 
-4. **Concrete Decorators:** Develop concrete decorator classes that extend the Decorator interface, adding new functionalities or modifying existing ones.
+5. **Concrete Decorators:** Develop concrete decorator classes that extend the Decorator interface, adding new functionalities or modifying existing ones.
 
-5. **Composition:** Objects are composed by wrapping them with decorators. Decorators contain instances of the Component interface and can add their own behavior before or after delegating to the component they decorate.
+6. **Composition:** Objects are composed by wrapping them with decorators. Decorators contain instances of the Component interface and can add their own behavior before or after delegating to the component they decorate.
 
 ![image](https://github.com/antonio8101/decorator_pattern_php/assets/300245/b80f646a-c069-4718-ad82-fd70da6f091d)
 
