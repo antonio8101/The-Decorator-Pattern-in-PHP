@@ -26,7 +26,7 @@ The Decorator pattern solves the problem of dynamically and flexibly extending o
 #### Class explosion:
 ![image](https://github.com/antonio8101/decorator_pattern_php/assets/300245/4266d683-2f11-4319-a445-3a6427c24a80)
 
-#### Big dinasty
+#### Big dinasty (quite probably violation of Single Reposibility Principle):
 ![image](https://github.com/antonio8101/decorator_pattern_php/assets/300245/b53e4c65-d4c7-43fd-9ad6-25d169cae0fb)
 
 ### How the Decorator pattern works
