@@ -1,0 +1,19 @@
+{
+    "name": "antonio8101/decorator_pattern_php",
+    "description": "An example of the implementation of the Decorator Pattern in PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Antonio8101\\DecoratorPatternPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Bruno",
+            "email": "300245+antonio8101@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
