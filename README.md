@@ -21,7 +21,7 @@ The Decorator pattern solves the problem of dynamically and flexibly extending o
 
 - **Maintaining Cohesion:** Avoids the need to create numerous subclasses for handling all possible combinations of functionalities. Instead, functionalities can be flexibly combined through decorator composition.
 
-### UML Samples of a rigid design which adds functionality to a class by using inheritance
+### UML Samples of a rigid designs which adds functionality to a class by using only inheritance
 
 #### Class explosion:
 ![image](https://github.com/antonio8101/decorator_pattern_php/assets/300245/4266d683-2f11-4319-a445-3a6427c24a80)
